@@ -1,0 +1,374 @@
+[
+  {
+    "Name": "GoldWhiteSoftened",
+    "VrayName": "/WhiteMetal-Polished-Softened",
+    "Index": 0,
+    "Type": 0
+  },
+  {
+    "Name": "GoldWhiteNonSoftened",
+    "VrayName": "/WhiteMetal-Polished-NonSoftened",
+    "Index": 1,
+    "Type": 0
+  },
+  {
+    "Name": "GoldYellowSoftened",
+    "VrayName": "/YellowMetal-Polished-Softened",
+    "Index": 2,
+    "Type": 0
+  },
+  {
+    "Name": "GoldYellowNonSoftened",
+    "VrayName": "/YellowMetal-Polished-NonSoftened",
+    "Index": 3,
+    "Type": 0
+  },
+  {
+    "Name": "GoldRoseSoftened",
+    "VrayName": "/RoseMetal-Polished-Softened",
+    "Index": 4,
+    "Type": 0
+  },
+  {
+    "Name": "GoldRoseNonSoftened",
+    "VrayName": "/RoseMetal-Polished-NonSoftened",
+    "Index": 5,
+    "Type": 0
+  },
+  {
+    "Name": "Diamond",
+    "VrayName": "/Gem_Diamond",
+    "Index": 6,
+    "Type": 1
+  },
+  {
+    "Name": "BlueSapphire",
+    "VrayName": "/Gem_Sapphire",
+    "Index": 7,
+    "Type": 1
+  },
+  {
+    "Name": "Emerald",
+    "VrayName": "/Gem_Emerald",
+    "Index": 8,
+    "Type": 1
+  },
+  {
+    "Name": "Ruby",
+    "VrayName": "/Gem_Ruby",
+    "Index": 9,
+    "Type": 1
+  },
+  {
+    "Name": "SaltAndPepperDiamonds",
+    "VrayName": "/Gem_Diamond_Salt_Pepper",
+    "Index": 10,
+    "Type": 1
+  },
+  {
+    "Name": "BlackDiamond",
+    "VrayName": "/Gem_Diamond_Black",
+    "Index": 11,
+    "Type": 1
+  },
+  {
+    "Name": "Aquamarine",
+    "VrayName": "/Gem_Aquamarine",
+    "Index": 12,
+    "Type": 1
+  },
+  {
+    "Name": "Morganite",
+    "VrayName": "/Gem_Morganite",
+    "Index": 13,
+    "Type": 1
+  },
+  {
+    "Name": "Opal",
+    "VrayName": "/Gem_Opal",
+    "Index": 14,
+    "Type": 1
+  },
+  {
+    "Name": "Amethyst",
+    "VrayName": "/Gem_Amethyst",
+    "Index": 15,
+    "Type": 1
+  },
+  {
+    "Name": "Tanzanite",
+    "VrayName": "/Gem_Tanzanite",
+    "Index": 16,
+    "Type": 1
+  },
+  {
+    "Name": "BlueTopaz",
+    "VrayName": "/Gem_Blue_Topaz",
+    "Index": 17,
+    "Type": 1
+  },
+  {
+    "Name": "YellowDiamond",
+    "VrayName": "/Gem_Diamond_Yellow",
+    "Index": 18,
+    "Type": 1
+  },
+  {
+    "Name": "PinkSapphire",
+    "VrayName": "/Gem_Sapphire_Pink",
+    "Index": 19,
+    "Type": 1
+  },
+  {
+    "Name": "BlueDiamond",
+    "VrayName": "/Gem_Diamond_Blue",
+    "Index": 20,
+    "Type": 1
+  },
+  {
+    "Name": "Pearl",
+    "VrayName": "/Pearl",
+    "Index": 21,
+    "Type": 1
+  },
+  {
+    "Name": "PearlTahitian",
+    "VrayName": "/PearlTahitian",
+    "Index": 22,
+    "Type": 1
+  },
+  {
+    "Name": "ScanGray",
+    "VrayName": "/ScanGray",
+    "Index": 23,
+    "Type": 0
+  },
+  {
+    "Name": "Engraving",
+    "VrayName": "/Engraving",
+    "Index": 24,
+    "Type": 0
+  },
+  {
+    "Name": "YellowGold-Brushed-NonSoftened",
+    "VrayName": "/YellowMetal-Brushed-NonSoftened",
+    "Index": 25,
+    "Type": 0
+  },
+  {
+    "Name": "YellowGold-Brushed-Softened",
+    "VrayName": "/YellowMetal-Brushed-Softened",
+    "Index": 26,
+    "Type": 0
+  },
+  {
+    "Name": "YellowGold-Hammer-NonSoftened",
+    "VrayName": "/YellowMetal-Hammer-NonSoftened",
+    "Index": 27,
+    "Type": 0
+  },
+  {
+    "Name": "YellowGold-Hammer-Softened",
+    "VrayName": "/YellowMetal-Hammer-Softened",
+    "Index": 28,
+    "Type": 0
+  },
+  {
+    "Name": "YellowGold-Polished-NonSoftened",
+    "VrayName": "/YellowMetal-Polished-NonSoftened",
+    "Index": 29,
+    "Type": 0
+  },
+  {
+    "Name": "YellowGold-Polished-Softened",
+    "VrayName": "/YellowMetal-Polished-Softened",
+    "Index": 30,
+    "Type": 0
+  },
+  {
+    "Name": "YellowGold-Sandblast-NonSoftened",
+    "VrayName": "/YellowMetal-Sandblast-NonSoftened",
+    "Index": 31,
+    "Type": 0
+  },
+  {
+    "Name": "YellowGold-Sandblast-Softened",
+    "VrayName": "/YellowMetal-Sandblast-Softened",
+    "Index": 32,
+    "Type": 0
+  },
+  {
+    "Name": "YellowGold-Satin-NonSoftened",
+    "VrayName": "/YellowMetal-Satin-NonSoftened",
+    "Index": 33,
+    "Type": 0
+  },
+  {
+    "Name": "YellowGold-Satin-Softened",
+    "VrayName": "/YellowMetal-Satin-Softened",
+    "Index": 34,
+    "Type": 0
+  },
+  {
+    "Name": "WhiteGold-Brushed-NonSoftened",
+    "VrayName": "/WhiteMetal-Brushed-NonSoftened",
+    "Index": 35,
+    "Type": 0
+  },
+  {
+    "Name": "WhiteGold-Brushed-Softened",
+    "VrayName": "/WhiteMetal-Brushed-Softened",
+    "Index": 36,
+    "Type": 0
+  },
+  {
+    "Name": "WhiteGold-Hammer-NonSoftened",
+    "VrayName": "/WhiteMetal-Hammer-NonSoftened",
+    "Index": 37,
+    "Type": 0
+  },
+  {
+    "Name": "WhiteGold-Hammer-Softened",
+    "VrayName": "/WhiteMetal-Hammer-Softened",
+    "Index": 38,
+    "Type": 0
+  },
+  {
+    "Name": "WhiteGold-Polished-NonSoftened",
+    "VrayName": "/WhiteMetal-Polished-NonSoftened",
+    "Index": 39,
+    "Type": 0
+  },
+  {
+    "Name": "WhiteGold-Polished-Softened",
+    "VrayName": "/WhiteMetal-Polished-Softened",
+    "Index": 40,
+    "Type": 0
+  },
+  {
+    "Name": "WhiteGold-Sandblast-NonSoftened",
+    "VrayName": "/WhiteMetal-Sandblast-NonSoftened",
+    "Index": 41,
+    "Type": 0
+  },
+  {
+    "Name": "WhiteGold-Sandblast-Softened",
+    "VrayName": "/WhiteMetal-Sandblast-Softened",
+    "Index": 42,
+    "Type": 0
+  },
+  {
+    "Name": "WhiteGold-Satin-NonSoftened",
+    "VrayName": "/WhiteMetal-Satin-NonSoftened",
+    "Index": 43,
+    "Type": 0
+  },
+  {
+    "Name": "WhiteGold-Satin-Softened",
+    "VrayName": "/WhiteMetal-Satin-Softened",
+    "Index": 44,
+    "Type": 0
+  },
+  {
+    "Name": "RoseGold-Brushed-NonSoftened",
+    "VrayName": "/RoseMetal-Brushed-NonSoftened",
+    "Index": 45,
+    "Type": 0
+  },
+  {
+    "Name": "RoseGold-Brushed-Softened",
+    "VrayName": "/RoseMetal-Brushed-Softened",
+    "Index": 46,
+    "Type": 0
+  },
+  {
+    "Name": "RoseGold-Hammer-NonSoftened",
+    "VrayName": "/RoseMetal-Hammer-NonSoftened",
+    "Index": 47,
+    "Type": 0
+  },
+  {
+    "Name": "RoseGold-Hammer-Softened",
+    "VrayName": "/RoseMetal-Hammer-Softened",
+    "Index": 48,
+    "Type": 0
+  },
+  {
+    "Name": "RoseGold-Polished-NonSoftened",
+    "VrayName": "/RoseMetal-Polished-NonSoftened",
+    "Index": 49,
+    "Type": 0
+  },
+  {
+    "Name": "RoseGold-Polished-Softened",
+    "VrayName": "/RoseMetal-Polished-Softened",
+    "Index": 50,
+    "Type": 0
+  },
+  {
+    "Name": "RoseGold-Sandblast-NonSoftened",
+    "VrayName": "/RoseMetal-Sandblast-NonSoftened",
+    "Index": 51,
+    "Type": 0
+  },
+  {
+    "Name": "RoseGold-Sandblast-Softened",
+    "VrayName": "/RoseMetal-Sandblast-Softened",
+    "Index": 52,
+    "Type": 0
+  },
+  {
+    "Name": "RoseGold-Satin-NonSoftened",
+    "VrayName": "/RoseMetal-Satin-NonSoftened",
+    "Index": 53,
+    "Type": 0
+  },
+  {
+    "Name": "RoseGold-Satin-Softened",
+    "VrayName": "/RoseMetal-Satin-Softened",
+    "Index": 54,
+    "Type": 0
+  },
+  {
+    "Name": "WhiteDiamond",
+    "VrayName": "/Gem_Diamond",
+    "Index": 55,
+    "Type": 1
+  },
+  {
+    "Name": "Peridot",
+    "VrayName": "/Gem_Peridot",
+    "Index": 56,
+    "Type": 1
+  },
+  {
+    "Name": "WhiteOpal",
+    "VrayName": "/Gem_Opal_White",
+    "Index": 57,
+    "Type": 1
+  },
+  {
+    "Name": "BlackOpal",
+    "VrayName": "/Gem_Opal_Black",
+    "Index": 58,
+    "Type": 1
+  },
+  {
+    "Name": "BlackRedOpal",
+    "VrayName": "/Gem_Opal_BlackRed",
+    "Index": 59,
+    "Type": 1
+  },
+  {
+    "Name": "Alexandrite",
+    "VrayName": "/Gem_Alexandrite",
+    "Index": 60,
+    "Type": 1
+  },
+  {
+    "Name": "TourmalinePink",
+    "VrayName": "/Gem_Tourmaline_Pink",
+    "Index": 61,
+    "Type": 1
+  }
+]
